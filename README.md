@@ -22,7 +22,7 @@ Aspiring Data Analyst | MCA Student
 
 ### 💻 Workspace Spec
     ASUS TUF-F15 GAMING
-<img height="50" width="50" src="https://icons8.com/icon/an5fPuW5TBqA/my-asus"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" />
+<img height="50" width="50" src="https://www.laptopservicecenterjaipur.co.in/wp-content/uploads/2014/12/Asus-service-center-jaipur.png"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" /> <img height="50" width="50" src="https://www.tenforums.com/attachments/graphic-cards/211621d1541691462t-latest-nvidia-geforce-graphics-drivers-windows-10-a-nvidia.png"/>
 
 ### Learning Stats
 ![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
