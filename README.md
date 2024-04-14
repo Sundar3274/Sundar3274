@@ -20,10 +20,8 @@ Data Analyst
 
 
 ### 💻 Workspace Spec
-<img height="30" src="[https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white](https://in.store.asus.com/media/catalog/product/9/0/90nr0704-m00je0-fx506he-hn385ws.png)"/> <img height="30" src="[https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.msi.com%2FGraphics-Card%2FGeForce-RTX-3050-GAMING-X-8G&psig=AOvVaw3fmChM4R5B1HBzyAaY9oVp&ust=1713180207385000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjwofLLwYUDFQAAAAAdAAAAABAK)"/>  <img height="30" src="https://www.google.com/imgres?q=intel%20i7%2011th%20generation&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F5%2F5d%2FIntel_Core_i7_%252811th_generation%252C_logo%2529.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_Intel_Core_i7_processors&docid=pgvCpreupTN3MM&tbnid=LSBvoj06Pg1AtM&vet=12ahUKEwjmrLaFzMGFAxWWxKACHQtqB58QM3oECGMQAA..i&w=800&h=800&hcb=2&itg=1&ved=2ahUKEwjmrLaFzMGFAxWWxKACHQtqB58QM3oECGMQAA"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sundar3274's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sundar3274&theme=vue-dark&hide_border=true)
+![Sundar3274's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![Sundar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundar3274&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Sundar3274/github-readme-activity-graph)
