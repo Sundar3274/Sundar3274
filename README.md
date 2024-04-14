@@ -21,7 +21,8 @@ Aspiring Data Analyst | MCA Student
 
 
 ### 💻 Workspace Spec
-Asus TUF-F15 GAMING <img height="50" width="50" src="[https://icons8.com/icon/It75JPo3qKDs/asus](https://icons8.com/icon/Pmq6Z2NIS9Y9/asus)"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" />
+    ASUS TUF-F15 GAMING
+<img height="50" width="50" src="https://icons8.com/icon/an5fPuW5TBqA/my-asus"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" />
 
 ### Learning Stats
 ![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
