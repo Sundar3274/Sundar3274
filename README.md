@@ -13,7 +13,7 @@ Aspiring Data Analyst | MCA Student
 - ⚡ Fun fact: I know How to Build S1K.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://icons8.com/icon/117561/microsoft-excel-2019"/>
@@ -21,11 +21,7 @@ Aspiring Data Analyst | MCA Student
 
 
 ### 💻 Workspace Spec
-<img height="50" width="50" src="https://icons8.com/icon/It75JPo3qKDs/asus"/>
-#### Asus TUF-F15 GAMING
-<img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/>
-#### Processor-Intel i7-11th Gen
-<img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" />
+Asus TUF-F15 GAMING <img height="50" width="50" src="[https://icons8.com/icon/It75JPo3qKDs/asus](https://icons8.com/icon/Pmq6Z2NIS9Y9/asus)"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" />
 
 ### Learning Stats
 ![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
