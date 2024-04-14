@@ -1,8 +1,8 @@
-## Hi there 👋 It's me Sundar
+## Hi there ✌️ It's me Sundar
 Aspiring Data Analyst | MCA Student  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://linktr.ee/sundars24/)                                                 
-- 🌱 I’m currently learning Advance Data Science
+- 💻 I’m currently learning Advance Data Science
 - 👯 I’m looking to collaborate on Data Science / AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
@@ -27,4 +27,5 @@ Aspiring Data Analyst | MCA Student
 ![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Sundar3274's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sundar3274&theme=vue-dark&hide_border=true)
 ![Sundar3274's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br />
 [![Sundar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundar3274&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Sundar3274/github-readme-activity-graph)
