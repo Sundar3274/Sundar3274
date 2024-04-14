@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst | MCA Student  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https:///)                                                 
+- 🔭 Here's my [portfolio](https://https://linktr.ee/sundars24)                                                 
 - 🌱 I’m currently learning Advance Data Science
 - 👯 I’m looking to collaborate on Data Science / AI
 - 🤔 I’m looking for help with Placements in FAANG
@@ -21,7 +21,7 @@ Aspiring Data Analyst | MCA Student
 
 
 ### 💻 Workspace Spec
-ASUS TUF-F15 GAMING FX508HE
+#### ASUS TUF-F15 GAMING FX508HE
 <img height="50" width="50" src="https://www.laptopservicecenterjaipur.co.in/wp-content/uploads/2014/12/Asus-service-center-jaipur.png"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" /> <img height="50" width="50" src="https://www.tenforums.com/attachments/graphic-cards/211621d1541691462t-latest-nvidia-geforce-graphics-drivers-windows-10-a-nvidia.png"/>
 
 ### Learning Stats
