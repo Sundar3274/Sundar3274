@@ -1,7 +1,7 @@
 ## Hi there ✌️ It's me Sundar
 Aspiring Data Analyst & Front End Developer | MCA Student  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://linktr.ee/sundars24/)                                                 
+- 🔭 Here's my [portfolio](https://linktr.ee/sundar24/)                                                 
 - 💻 I’m currently learning Front End Development / AI-ML
 - 👯 I’m looking to collaborate on AI / web Development
 - 🤔 I’m looking for help with Placements in FAANG
