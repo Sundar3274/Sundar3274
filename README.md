@@ -20,7 +20,7 @@ Aspiring Data Analyst & Front End Developer | MCA Student
 
 ### 💻 Workspace Spec
 #### ASUS TUF-F15 GAMING FX508HE
-<img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" /> <img height="50" width="50" src="https://www.tenforums.com/attachments/graphic-cards/211621d1541691462t-latest-nvidia-geforce-graphics-drivers-windows-10-a-nvidia.png"/>
+<img height="50" src ="https://logos-world.net/wp-content/uploads/2020/07/Asus-Logo-1995-present.png"/> <img height="50" width="50" src="https://www.techpowerup.com/review/asus-tuf-gaming-alliance-revisited/images/small.png"/> <img height="50" width="50" src="https://cdn.pointandplace.com/services/badge/intel/cpu/icon/core-i7-11th.jpg" /> <img height="50" width="50" src="https://www.tenforums.com/attachments/graphic-cards/211621d1541691462t-latest-nvidia-geforce-graphics-drivers-windows-10-a-nvidia.png"/>
 
 ### Learning Stats
 ![Sundar3274's Stats](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
