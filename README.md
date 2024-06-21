@@ -11,6 +11,10 @@ Aspiring Software Developer | Frontend Development | MCA Student
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know How to Build S1000 RR.
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sundar3274&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
@@ -29,9 +33,6 @@ Aspiring Software Developer | Frontend Development | MCA Student
 ![](https://github-readme-stats.vercel.app/api?username=Sundar3274&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sundar3274&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar3274&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sundar3274&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
